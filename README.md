@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Fatima! 👋
 
-<!--
-**fatima-muzafar/fatima-muzafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student @ MUET (2027)
+💻 learning Full Stack Gen AI Developer
+📍 Hyderabad, Pakistan
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Building AI powered web apps
+- 🌱 Learning React & Node.js
+- 💡 Passionate about Gen AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+
+## 🔥 Projects
+- 🌍 Global Conflict Analyzer
+- 💰 AI Financial Chatbot
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-muzafar-ali-900a172a0)
