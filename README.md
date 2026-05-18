@@ -27,6 +27,7 @@
 
 ## 🏆 Certifications
 
+- ✅ [JavaScript Developer Certification — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/javascript-v9) *(May 2026)*
 - ✅ [Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/responsive-web-design) *(Mar 2026)*
 - ✅ [Legacy Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/responsive-web-design-v8) *(Mar 2026)*
 - ✅ Introduction to Generative AI — Google Cloud x Simplilearn *(Feb 2026)*
