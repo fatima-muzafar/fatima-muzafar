@@ -1,15 +1,16 @@
 # Hi, I'm Fatima! 👋
 
-🎓 CSE Student @ MUET (2027) 💻 Full Stack Gen AI Developer 📍 Hyderabad, Pakistan
+🎓 CSE Student @ MUET (2027) | 📍 Hyderabad, Pakistan
+Frontend Developer | Generative AI Enthusiast | Open to Internships
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Building AI-powered web apps
-- 🌱 Learning React & Node.js
-- 💡 Passionate about Generative AI & Full Stack Development
-- 🎯 Open to AI & Python internships!
+- 🤖 Building AI-powered web apps with Python & Generative AI
+- 🌱 Currently Learning: React & Tailwind CSS
+- 💡 Passionate about solving real-world problems with AI
+- 🎯 Open to Frontend & AI Internships — Remote & Local
 
 ---
 
@@ -27,21 +28,32 @@
 
 ## 🏆 Certifications
 
-- ✅ [JavaScript Developer Certification — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/javascript-v9) *(May 2026)*
+- ✅ [JavaScript Algorithms & Data Structures — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/javascript-v9) *(May 2026)*
 - ✅ [Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/responsive-web-design) *(Mar 2026)*
-- ✅ [Legacy Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fatimamuzafarali/responsive-web-design-v8) *(Mar 2026)*
 - ✅ Introduction to Generative AI — Google Cloud x Simplilearn *(Feb 2026)*
 - ✅ Python Essentials 1 — Cisco Networking Academy *(Jan 2026)*
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
-- 🌍 [Global Conflict Analyzer](https://github.com/fatima-muzafar/global-conflict-impact-analyzer) — AI-powered Geopolitical Risk Dashboard
-- 💰 AI Financial Chatbot — AI-powered Finance Assistant
+### 🌍 [Global Conflict Analyzer](https://github.com/fatima-muzafar/global-conflict-impact-analyzer)
+> AI-powered Geopolitical Risk Dashboard — analyzes global conflicts using real-time data & Generative AI
+
+### 💰 AI Financial Chatbot
+> AI-powered Finance Assistant — helps users with financial queries using natural language
+
+---
+
+## 📊 GitHub Stats
+
+![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatima-muzafar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-muzafar&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-muzafar-ali-900a172a0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatima-muzafar)
