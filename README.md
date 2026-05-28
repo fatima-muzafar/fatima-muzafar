@@ -40,7 +40,7 @@ Frontend Developer | Generative AI Enthusiast | Open to Internships
 ### 🌍 [Global Conflict Analyzer](https://github.com/fatima-muzafar/global-conflict-impact-analyzer)
 > AI-powered Geopolitical Risk Dashboard — analyzes global conflicts using real-time data & Generative AI
 
-### 💰 AI Financial Chatbot
+### 💰 AI Financial Chatbot(https://github.com/fatima-muzafar/financial-chatbot)
 > AI-powered Finance Assistant — helps users with financial queries using natural language
 
 ---
@@ -48,9 +48,6 @@ Frontend Developer | Generative AI Enthusiast | Open to Internships
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatima-muzafar&theme=tokyonight)
-
-![GitHub followers](https://img.shields.io/github/followers/fatima-muzafar?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/fatima-muzafar?style=for-the-badge)
 
 ---
 
