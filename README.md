@@ -45,11 +45,12 @@ Frontend Developer | Generative AI Enthusiast | Open to Internships
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatima-muzafar&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=fatima-muzafar&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-muzafar&layout=compact&theme=tokyonight)
+![GitHub followers](https://img.shields.io/github/followers/fatima-muzafar?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/fatima-muzafar?style=for-the-badge)
 
 ---
 
