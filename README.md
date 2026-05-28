@@ -40,7 +40,7 @@ Frontend Developer | Generative AI Enthusiast | Open to Internships
 ### 🌍 [Global Conflict Analyzer](https://github.com/fatima-muzafar/global-conflict-impact-analyzer)
 > AI-powered Geopolitical Risk Dashboard — analyzes global conflicts using real-time data & Generative AI
 
-### 💰 AI Financial Chatbot(https://github.com/fatima-muzafar/financial-chatbot)
+### 💰 [AI Financial Chatbot](https://github.com/fatima-muzafar/financial-chatbot)
 > AI-powered Finance Assistant — helps users with financial queries using natural language
 
 ---
